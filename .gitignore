@@ -1,0 +1,10 @@
+pkg
+.yardoc
+coverage
+Gemfile.lock
+*.rbc
+.rspec
+.rvmrc
+.rbx
+.idea
+doc
